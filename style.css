@@ -1,0 +1,21 @@
+.tieu-de{
+    
+    text-align: center;
+    color:bisque;
+    padding-left: 20px;
+}
+
+.muc-nho, .muc-nho-1{
+    color: aliceblue;
+    padding-left: 20px;
+}
+
+.dacdiem, .van-hoa, .am-thuc, .con-nguoi, .ket-lai{
+    color: aliceblue;
+    padding-left: 20px;
+}
+
+.class-1, .class-2, .class-3{
+    padding: 10px ;
+    padding-left: 70px;
+}
